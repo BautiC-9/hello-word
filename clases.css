@@ -1,0 +1,13 @@
+style fondo {
+    background-color: #191919;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: #fafafa;
+    text-align: left;
+    text-decoration: line-through;
+    text-shadow: darkgray 1px 1px 1px;
+    
+}
