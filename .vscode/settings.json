@@ -1,0 +1,4 @@
+{
+    "java.project.explorer.showNonJavaResources": true,
+    "dotnet.defaultSolution": "WebApplication1.sln"
+}
